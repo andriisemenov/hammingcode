@@ -2,9 +2,13 @@
 Hamming code (8,4) example implementation for C++
 
 Inputs for this implementation are:
+
 INPUT_LEN - number of bits to encode (must be divisible by 4)
+
 orig_data - input data stream, array with 32-bit values, only INPUT_LEN number of bits will be encoded starting from MSB
+
 NUM_ERRORS - number of errors introduced
+
 error_data - array with positions to flip (simutale error)
 
 
