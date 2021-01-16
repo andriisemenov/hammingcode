@@ -8,7 +8,9 @@ NUM_ERRORS - number of errors introduced
 error_data - array with positions to flip (simutale error)
 
 
-Example output:
+
+
+## Example output:
 
 Original data :
 
